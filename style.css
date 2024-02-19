@@ -62,10 +62,7 @@
      
   }
   
-  .image{
-    display: flex;
-    float: left;
-  }
+
   .button-small{
     color: #ffffff;
     background-color: #FF6263;
