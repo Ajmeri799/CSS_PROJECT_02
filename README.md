@@ -1,2 +1,3 @@
 # CSS_PROJECT_02
-HTML-CSS-PROJECT-02
+Screenshot
+![Project Screenshot](ss.png)
